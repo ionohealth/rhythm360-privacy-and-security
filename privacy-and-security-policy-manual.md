@@ -6,47 +6,47 @@ Last Revision Date: November 26, 2020
 
 Table of Contents
 
-[1](#_heading=h.3znysh7)Introduction 4
+[1] Introduction 4
 
-[1.1](#_heading=h.tyjcwt)Purpose 4
+[1.1] Purpose 4
 
-[1.2](#_heading=h.1t3h5sf)Scope 4
+[1.2] Scope 4
 
-[1.3](#_heading=h.2s8eyo1)Acronyms / Definitions 4
+[1.3] Acronyms / Definitions 4
 
-[1.4](#_heading=h.17dp8vu)Production Environment 6
+[1.4] Production Environment 6
 
-[1.5](#_heading=h.3rdcrjn)Privacy Officer and Security Officer 7
+[1.5] Privacy Officer and Security Officer 7
 
-[Privacy Officer 7](#_heading=h.26in1rg)
+[Privacy Officer 7]
 
-[Security Officer 8](#_heading=h.lnxbz9)
+[Security Officer 8]
 
-[1.6](#_heading=h.35nkun2)Periodic Evaluation of Privacy and Security Policies 8
+[1.6] Periodic Evaluation of Privacy and Security Policies 8
 
-[1.7](#_heading=h.1ksv4uv)Master Security List 8
+[1.7] Master Security List 8
 
-[1.8](#_heading=h.44sinio)Compliance Statement 9
+[1.8] Compliance Statement 9
 
-[1.9](#_heading=h.2jxsxqh)Formatting and Distribution 10
+[1.9] Formatting and Distribution 10
 
-[1.10](#_heading=h.z337ya)Physical and Environmental Security Policies for Hosting Environment 10
+[1.10] Physical and Environmental Security Policies for Hosting Environment 10
 
-[2](#_heading=h.3j2qqm3)Workforce Security Responsibilities 10
+[2] Workforce Security Responsibilities 10
 
-[2.1](#_heading=h.4i7ojhp)Office Location Security Policies 10
+[2.1] Office Location Security Policies 10
 
-[2.2](#_heading=h.2xcytpi)Authorization Process for PHI Access 11
+[2.2] Authorization Process for PHI Access 11
 
-[2.3](#_heading=h.3whwml4)Prohibited Activities 11
+[2.3] Prohibited Activities 11
 
-[2.4](#_heading=h.qsh70q)Workforce Member Oversight Policies 12
+[2.4] Workforce Member Oversight Policies 12
 
-[2.5](#_heading=h.3as4poj)Reporting Software Malfunctions 12
+[2.5] Reporting Software Malfunctions 12
 
-[2.6](#_heading=h.1pxezwc)Security Patch Management 12
+[2.6] Security Patch Management 12
 
-[2.7](#_heading=h.49x2ik5)Security Incident Response Policy 13
+[2.7] Security Incident Response Policy 13
 
 [2.8](#_heading=h.41mghml)De-identification / Re-identification of PHI 14
 
