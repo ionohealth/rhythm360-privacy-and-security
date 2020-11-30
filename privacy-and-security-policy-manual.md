@@ -48,19 +48,19 @@ Table of Contents
 
 [2.7] Security Incident Response Policy 13
 
-[2.8](#_heading=h.41mghml)De-identification / Re-identification of PHI 14
+[2.8] De-identification / Re-identification of PHI 14
 
-[2.9](#_heading=h.2grqrue)Background Checks 14
+[2.9] Background Checks 14
 
-[2.10](#_heading=h.vx1227)Substance Abuse Policy 15
+[2.10] Substance Abuse Policy 15
 
-[2.11](#_heading=h.3fwokq0)Electronic Signatures 15
+[2.11] Electronic Signatures 15
 
-[2.12](#_heading=h.1v1yuxt)Clean Desk Policy 15
+[2.12] Clean Desk Policy 15
 
-[2.13](#_heading=h.4f1mdlm)Network Security Policy 15
+[2.13] Network Security Policy 15
 
-[3](#_heading=h.2u6wntf)Identification and Authentication 16
+[3] Identification and Authentication 16
 
 [3.1](#_heading=h.19c6y18)User LogIn IDs 16
 
