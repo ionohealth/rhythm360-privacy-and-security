@@ -134,10 +134,8 @@ Table of Contents
 
 Appendix A: Breach Notification Log Template………………......……………………………………........... 38
 
-1.
 ## Introduction
 
-  1.
 ## Purpose
 
 The purpose of this Privacy &amp; Information Security Policy Manual (&quot;Manual&quot;) is to ensure the security, quality, and integrity of sensitive and confidential data at RhythmScience, Inc. (&quot;RhythmScience&quot;), including protected health information (&quot;PHI&quot;). This Manual defines the Technical, Physical, and Administrative Safeguards that RhythmScience must adhere to under the HIPAA Security Rule (&quot;Security Rule&quot;) via the HITECH Act. This Manual also covers regulatory requirements under the HIPAA Privacy Rule and Breach Notification Rule. This Manual must be agreed to, and followed by all RhythmScience Employees and Associates, although particular provisions may be applicable to RhythmScience Employees and Associates authorized to access PHI (&quot;Authorized Workforce Members&quot;).
@@ -147,7 +145,6 @@ The purpose of this Privacy &amp; Information Security Policy Manual (&quot;Manu
 
 The policy requirements and restrictions defined in this Manual shall apply to all RhythmScience systems that create, maintain, store, access, process or transmit information. This includes the RhythmScience network system, which is comprised of various hardware, software, communication equipment and other devices used by RhythmScience in the creation, receipt, storage, processing, and transmission of information. This also includes equipment connected to any RhythmScience domain or Virtual Local Area Network (&quot;VLAN&quot;), either hardwired or wirelessly, and all stand-alone equipment that is deployed by RhythmScience at the Office Location or at remote locales.
 
-  1.
 ## Acronyms / Definitions
 
 Common terms and acronyms that may be used throughout this document:
@@ -232,7 +229,6 @@ Common terms and acronyms that may be used throughout this document:
 
 **Workforce (&quot;workforce member(s)&quot;)** – includes both RhythmScience Employees and Associates. &quot;Workforce member&quot; shall have the same meaning utilized in Section 45 CFR 160.103 of the HIPAA Privacy Rule.
 
-  1.
 ## Production Environment
 
 (A) AWS. RhythmScience currently utilizes AWS as its primary hosting provider for its Production Environment. RhythmScience follows the guidelines provided by AWS to ensure compliance and best practices in configuring and operating the Production Environment. Per the requirements in the Vendor Management Policy, RhythmScience reviews audit reports and other documentation provided by AWS to periodically evaluate its security controls.
@@ -241,7 +237,7 @@ Common terms and acronyms that may be used throughout this document:
 
 - [https://aws.amazon.com/whitepapers/overview-of-security-processes/](https://aws.amazon.com/whitepapers/overview-of-security-processes/)
 
-●[https://aws.amazon.com/compliance/hipaa-compliance/](https://aws.amazon.com/compliance/hipaa-compliance/)
+- [https://aws.amazon.com/compliance/hipaa-compliance/](https://aws.amazon.com/compliance/hipaa-compliance/)
 
 (C) Applicable Standards.
 
@@ -261,7 +257,6 @@ RhythmScience acknowledges that the compliance and security programs of its host
 
 (G) Approved Tools. The Privacy Officer and Security Officer maintain a list of approved software tools in the Master Security List. These tools vary from self-hosted to cloud hosted with security managed either by RhythmScience or shared with the tool&#39;s provider. The sharing of regulated data is only allowed on tools approved by the Privacy Officer or Security Officer with the appropriate agreement in place such as a BAA for PHI.
 
-  1.
 ## Privacy Officer and Security Officer
 
 RhythmScience has established a Privacy Officer and Security Officer as required by Security Rule § 164.308(a)(2). The Privacy Officer will oversee all ongoing activities related to the development, implementation, and maintenance of RhythmScience&#39;s security policies and is the primary contact person with outside parties for RhythmScience&#39;s compliance obligations. The Security Officer shall work in conjunction with the Privacy Officer to implement RhythmScience&#39;s security policies. Below are lists of primary responsibilities of the two roles. These lists are not meant to be exhaustive and specific tasks may be delegated between the Privacy Officer and the Security Officer as well as to appropriate personnel as required by RhythmScience&#39;s ongoing business needs.
@@ -298,14 +293,12 @@ The Security Officer shall have the following responsibilities:
 - Manage vulnerability management including periodic scanning.
 - Terminate system resource access as part of offboarding workforce members.
 
-  1.
 ## Periodic Evaluation of Privacy and Security Policies
 
 RhythmScience has established a procedure for enhancing the security measures contained in this Manual through an annual review process. The Privacy Officer shall review this Manual on an annual basis and will update these policies as necessary.
 
 At the discretion of the Privacy and Security Officers, RhythmScience may engage accredited third-parties to perform assessments. As applicable, the Privacy Officer shall incorporate the recommendations of the resulting reports when improving these policies.
 
-  1.
 ## Master Security List
 
 RhythmScience has established a Master Security List for updating all critical information pertaining to RhythmScience&#39;s management of its privacy and information security policies. The Security Officer shall be responsible for updating the Master Security List on a monthly basis. The Master Security List shall address, at minimum, the following categories:
@@ -316,7 +309,6 @@ RhythmScience has established a Master Security List for updating all critical i
 
 (3) Approved Tools.
 
-  1.
 ## Compliance Statement
 
 ##### Purpose
@@ -334,14 +326,12 @@ RhythmScience acknowledges that it is required to comply with sections 164.502 a
 - RhythmScience shall make any amendment(s) to PHI in a designated record set as directed or agreed to by the applicable customer or take other measures as necessary to satisfy the applicable customer&#39;s obligations under 45 CFR 164.526.
 - As required by § 164.316(b)(2)(i), documentation shall be retained for six years from date of creation or when last in effect, whichever is later.
 
-  1.
 ## Formatting and DISTRIBUTION
 
 This Manual is formatted in compliance with Security Rule guidelines, including all required and addressable standards as applicable to RhythmScience&#39;s interactions with PHI. The ordering of the various policies has no bearing on the priority or hierarchy of certain policies over others with respect to RhythmScience&#39;s compliance obligations. Separate word and PDF version of this Manual, reflecting the Manual&#39;s last updated date, are retained in compliance with the record retention requirements addressed in Section 10.1.
 
 This Manual is distributed and the contents of this Manual are otherwise made available to all workforce members as part of the HIPAA Security and Privacy Training Program, addressed in greater detail in Section 17.
 
-  1.
 ## Physicial and Environmental Security Policies for hosting environment
 
 RhythmScience relies on the security program of its hosting provider for the security controls governing the physical location of its hosting environment. This section covers both the security of premises to the hardware on which the Production Environment is hosted. The following list of facility security controls are provided for reference and not meant to be exhaustive. The documentation identified in Section 1.4 should be reviewed for the most current description of the controls in place.
@@ -351,11 +341,8 @@ RhythmScience relies on the security program of its hosting provider for the sec
 - Custom hardware security chips.
 - Cryptographic signatures over components including BIOS and operating system image
 - Automated processes to keep servers updated to current software versions including security patches as well as to detect problems and vulnerabilities.
-
-1.
 ## Workforce Security Responsibilities
 
-  1.
 ## Office Location Security Policies
 
 The first line of Physical Safeguards at the Office Location against wrongful PHI access is the individual RhythmScience Employee or Associate. RhythmScience Employees and Associates are responsible for the security of all data that may come to them, in whatever format. RhythmScience is responsible for maintaining ongoing training programs to inform RhythmScience Employees and Associates of these security requirements, in accordance with Section 17 of this Manual.
@@ -366,14 +353,12 @@ Hard Copy Reports or Work Papers:Never leave paper records that may contain PHI 
 
 Protect Data in Your Possession: View or access only the information that you have a need to see to complete your work assignment. You should regularly review the data you have stored to ensure no PHI is accidentally stored on your computer.
 
-  1.
 ## Authorization Process for PHI Access
 
 RhythmScience follows the &quot;need to know&quot; principle when providing individual workforce members access to PHI or other sensitive / confidential information. That means that individuals should only have access to the PHI necessary for them to perform their job function. This access should also be limited in time based on the project or work function of the individual. PHI access by Subcontractors follows the same principle and is limited as described in Section 4.
 
 Authorized Computers must be approved by the Privacy Officer before they can access or store PHI. The utmost care should be taken to ensure that Authorized Computers are not stolen and that PHI is not compromised.
 
-  1.
 ## Prohibited Activities
 
 RhythmScience Employees and Associates are prohibited from the following activities. The list is not exhaustive. Other prohibited activities may be referenced elsewhere in this document or otherwise implemented by the Security Officer.
@@ -386,14 +371,12 @@ RhythmScience Employees and Associates are prohibited from the following activit
 - Unauthorized Software. Use of unauthorized software is prohibited. All software installed on Authorized Computers that accesses PHI must be approved by the Security Officer.
 - Software Use. Violating or attempting to violate the terms of use or license agreement of any software product used by RhythmScience is strictly prohibited.
 
-  1.
 ## Workforce Member Oversight Policies
 
 RhythmScience reserves the right, at its discretion, to audit any RhythmScience Employee or Associate&#39;s files or electronic communications to the extent necessary to ensure all work-related activities are conducted in compliance with the Security Rule. Workforce member should expect such auditing to occur, at minimum, on an annual basis or more frequently in response to Security Incidents and environmental or operational changes impacting the security of PHI, e.g., PHI breaches, addition of new hardware or software, and increased threats.
 
 RhythmScience Employees and Associates should structure all work communications with recognition of the fact that such content may be audited, and that any electronic communication could be forwarded, intercepted, printed or stored by others.
 
-  1.
 ## Reporting Software Malfunctions
 
 RhythmScience Employees and Associates should inform the appropriate RhythmScience personnel when the user&#39;s software does not appear to be functioning correctly. The malfunction - whether accidental or deliberate - may pose a HIPAA security risk. If the user, or the user&#39;s supervisor, suspects a computer virus infection, the following steps should be taken immediately:
@@ -409,7 +392,7 @@ RhythmScience Employees and Associates should inform the appropriate RhythmScien
 
 The Security Officer should monitor the resolution of the malfunction and make recommendations on action steps to avert future similar occurrences.
 
-  1.
+
 ## Security patch management
 
 RhythmScience will use commercially reasonable operational practices, in accordance with relevant NIST guidelines, to identify, classify, remediate, and mitigate potential instances of Production System vulnerabilities. This may include, on a regular basis:
@@ -419,7 +402,7 @@ RhythmScience will use commercially reasonable operational practices, in accorda
 - Reviewing published vulnerability threat assessments and security patch recommendations; and
 - Applying system security updates and patches within 30 days of release.
 
-  1.
+
 ## Security Incident Response Policy
 
 RhythmScience Employees and Associates are to promptly report to the Privacy Officer all privacy and security-related events that might involve the acquisition, access, use or disclosure of PHI in a manner not permitted under HIPAA. Reports of all privacy and security-related events shall be escalated in a timely fashion. The Privacy Officer shall determine whether a privacy or security-related event constitutes a Security Incident that requires Customer reporting based on a fact-specific risk assessment and in accordance with NIST 800-61 guidelines.
@@ -462,7 +445,7 @@ The Security Officer shall periodically review the current state of their incide
 
 Refer to RhythmScience Incident Response Plan for further information.
 
-  1.
+
 ## De-identification / Re-identification of PHI
 
 RhythmScience may de-identify PHI in its discretion for lawful commercial purposes. When removing identifiable information from PHI, RhythmScience employs practices to conform with the Safe Harbor method for the de-identification of PHI, as directed by the Privacy Rule Section 164.514(b)(2).
@@ -471,17 +454,17 @@ De-identification as used herein is defined as the removal of the 18 identifiers
 
 Re-identification policy: RhythmScience maintains a general policy that de-identified PHI shall only be re-identified using a cross-reference code or other means of record identification, which is not derived from or related to information about the individual, or otherwise capable of being translated to identify the individual. In addition, the code shall not be disclosed for any purpose nor can the mechanism for re-identification be disclosed.
 
-  1.
+
 ## background checks
 
 All RhythmScience Employees and Associates shall undergo an accredited background check before they are designated as Authorized Workforce Members and permitted to access PHI. Access to background check records shall be limited to the management team.  The management team shall evaluate the results to assure that there is no indication that the workforce member presents a risk for theft of confidential data. If any results are suspicious, the management team shall review the background check file with said workforce member and provide the individual with an opportunity to explain the results.  If no satisfactory explanation is provided, the management team shall make a recommendation to appropriate personnel that such Employee or Associate be prohibited from accessing PHI or in extreme cases, be terminated from employment.  RhythmScience shall retain each workforce member&#39;s background check documentation for, at minimum, a period of three (3) years following contract termination.
 
-  1.
+
 ## Substance Abuse Policy
 
 Unacceptable behavior by RhythmScience Employees and Associates includes being under the influence of alcohol or illegal substances or misusing or abusing prescription drugs or medicines while on RhythmScience business. RhythmScience reserves the right to take disciplinary action, up to and including immediate suspension or termination for failure to refrain from such behavior.
 
-  1.
+
 ## Electronic Signatures
 
 In compliance with all applicable federal electronic signature (&quot;e-signature&quot;) requirements, most activities at RhythmScience utilize e-signatures. When a signed authorization is required for a disclosure of PHI not otherwise permitted by the HIPAA Privacy Rule (e.g., marketing or research disclosures), the following conditions shall apply with respect to e-signatures:
@@ -490,12 +473,12 @@ In compliance with all applicable federal electronic signature (&quot;e-signatur
 
 2. As applicable, the Privacy Officer shall implement a system to validate the identity of all transacting parties in order to avoid disputes about whether the person who entered into the agreement actually had the authority to do so.
 
-  1.
+
 ## Clean Desk Policy
 
 When leaving their desk, workforce members will ensure that no sensitive documents are easily visible upon their desks. Unattended computers shall be locked by the workforce member upon leaving their work area. All company laptops will have the automatic screen lock function set to automatically activate upon fifteen (15) minutes of inactivity. Workforce Members are not allowed to take any action that would override this setting.
 
-  1.
+  
 ## Network Security Policy
 
 ##### Purpose
@@ -510,10 +493,10 @@ All networking equipment in use for the Office Location network is maintained to
 
 Firewalls exist between the Office Location network and the public internet. Unified threat management, malicious code detection, and other industry standard measures are active.
 
-1.
+
 ## Identification and Authentication
 
-  1.
+
 ## User LogIn IDs
 
 Individual RhythmScience Employees and Associates shall have unique login IDs for all Approved Tools and network access points. Security requirements include:
@@ -523,7 +506,7 @@ Individual RhythmScience Employees and Associates shall have unique login IDs fo
 
 All user login IDs are audited at least twice yearly and all inactive login IDs are revoked. Upon the departure of any RhythmScience Employee or Associate, his/her login ID shall be revoked by appropriate personnel.
 
-  1.
+
 ## Passwords
 
 **User Account Passwords**
@@ -560,7 +543,7 @@ Password Usage **–** The Security Officer shall implement the following minimu
 
 Passwords should never be shared or revealed to anyone other than the authorized user. To do so exposes the authorized user to responsibility for actions that the other party takes with the password. If users need to share computer resident data, they should use electronic mail, public directories on local area network servers, and other mechanisms.
 
-  1.
+
 ## PHI Access ControlS
 
 As a supplement to the login ID and password requirements addressed in Sections 3.1 and 3.2, RhythmScience&#39;s PHI access control system includes the following additional security features:
@@ -570,34 +553,34 @@ As a supplement to the login ID and password requirements addressed in Sections 
 - Remote Device Administration. Authorized Computers can be remotely locked and wiped.
 - Account Lockout Threshold - After three (3) unsuccessful attempts to enter a password, the involved login ID will be temporarily disabled for thirty (30) minutes after which the account will be automatically unlocked.
 
-  1.
+
 ## USER LOGIN Entitlement Reviews
 
 If an RhythmScience Employee or Associate changes positions at RhythmScience, such individual&#39;s new supervisor shall promptly notify the Security Officer of the change of roles, both in terms of the roles or access that need to be added and the roles or access that need to be removed so such individual has access to the minimum necessary data to effectively perform their new job functions. The effective date of the position change should also be recorded so that the Privacy Officer can ensure that such individual will have appropriate roles, access, and applications for their new job responsibilities. For a limited training period, it may be necessary for such individual who is changing positions to maintain their previous access as well as adding the roles and access necessary for their new job responsibilities.
 
 No less than annually, the Security Officer shall facilitate entitlement reviews to ensure that all RhythmScience Employees and Associates have the appropriate roles, access, and software necessary to perform their job functions effectively while being limited to the minimum necessary data to facilitate HIPAA compliance and protect PHI.
 
-  1.
+
 ## Termination of User Login Account
 
 Upon termination of a workforce member, whether voluntary or involuntary, such individual&#39;s manager shall promptly notify the Security Officer or Privacy Officer. If such individual&#39;s termination is voluntary and such individual provides notice, his/her manager shall promptly notify the Security Officer or Privacy Officer of such individual&#39;s last scheduled work day so that their access can be timely removed. The individual&#39;s manager shall be responsible for ensuring that any building access devices, as well as RhythmScience equipment and property is returned to RhythmScience prior to the workforce member leaving RhythmScience on their final day of employment.
 
-  1.
+
 ## Wifi Security Policy
 
 RhythmScience utilizes WPA encryption and each workforce member is responsible for his or her own security on the network. Best WIFI security practices are covered in the Security Training.
 
-  1.
+
 ## Device Policy
 
 Any personal or company device that can access company-related software must be password protected. The Security Officer shall establish HIPAA compliant guidelines for the appropriate uses and settings for personal cell phones utilized for work-related functions (e.g. adoption of a strong passcode). These guidelines shall be addressed as part of the Security Training Program.
 
-  1.
+
 ## Supported Browser Policy
 
 It is RhythmScience&#39;s policy to only use web browser versions officially supported by their developer (e.g., Microsoft, Google). Further, RhythmScience products will only allow use by supported browsers so that appropriate safeguards are in place to ensure confidentiality and security of sensitive information.
 
-  1.
+
 ## Data Classification Policy
 
 **Statement of Policy**
@@ -636,14 +619,14 @@ This type also covers highly sensitive business information of RhythmScience. Al
 
 Examples include regulated data like PHI, source code, internal financials, and trade secrets.
 
-1.
+
 ## Vendor Management Policy
 
 **Statement of Policy**
 
 RhythmScience follows rigorous standards to ensure it is properly handling the PHI and other sensitive data entrusted to it responsibility and securely. RhythmScience is obligated to hold its HIPAA Subcontractors to the same standards and has created a process for reviewing Subcontractors and assigning a level of risk to each Subcontractor. As used within this policy &quot;business owner&quot; refers to the individual on RhythmScience&#39;s staff who is the point of contact and manager of the Subcontractor(s).
 
-  1.
+
 ## Subcontractor Risk Assignment
 
 Subcontractors are assigned a level of risk based on the project the Subcontractor is to work on, Subcontractor&#39;s level of access, nature of information the Subcontractor will have access to, whether the Subcontractor&#39;s work will touch RhythmScience&#39;s IT infrastructure, the history of the Subcontractor with RhythmScience, and other relevant considerations. For any Subcontractor where internal or higher classified information may be shared as part of the vetting process, an NDA must be in place protecting RhythmScience&#39;s interests. The business owner speaking with the Subcontractor is responsible for ensuring that this NDA is in place.
@@ -660,7 +643,6 @@ Subcontractors shall be categorized based on their risk level. This level may ch
 
 \*Note that for all Subcontractors that will handle PHI on behalf of RhythmScience or RhythmScience&#39;s customers, a BAA must be in place between RhythmScience and the Subcontractor prior to the Subcontractor handling any PHI on RhythmScience&#39;s behalf.
 
-  1.
 ## Subcontractor Oversight and Monitoring
 
 Subcontractors should be periodically assessed during the terms of their contracts with RhythmScience at a frequency based on their risk level or recommendation of the Privacy Officer. These assessments should include, but is not limited to, the review of the latest audit reports, certifications, current versions of policies, or the completion of a security questionnaire to reveal any changes since the last assessment. Other Subcontractors should be assessed at the time of contract renewal or at the time of a material change in services provided or contract terms. Low risk Subcontractors carry no requirement of ongoing assessment per this policy but may be assessed based on the discretion of the Privacy Officer.
@@ -669,21 +651,20 @@ Subcontractors may be given a new risk designation if their scope of service or 
 
 The business owner is responsible for communicating RhythmScience&#39;s Subcontractor requirements to their particular Subcontractors. Additionally, the business owner is responsible for ensuring RhythmScience has the most up to date contact information for the Subcontractor&#39;s compliance and security points of contact, as applicable. The business owner is also responsible for notifying the appropriate RhythmScience teams including the Privacy Officer when a Subcontractor&#39;s contract expires or is terminated.
 
-1.
+
 ## Software Updates
 
 It is RhythmScience&#39;s policy to ensure that all Authorized Computers are up to date for all software installations, including anti-virus, malware, and spyware. The Security Officer is responsible for monitoring and enforcing such policy.
 
 Remote Deployment Configuration– Through an automated procedure, updates and security patches may be pushed out to the individual workstations and servers on an as needed basis.
 
-1.
+
 ## Encryption
 
 RhythmScience maintains a policy that all Authorized Computers shall have encrypted drives systems. In addition, all RhythmScience Platform components utilize SSL encryption, including connections with AWS. All PHI is encrypted at rest using industry standard data techniques (e.g., raw files are encrypted on S3 and user fields are separately encrypted.)
 
 When encrypted data is transferred to/from a customer or Subcontractor, RhythmScience shall devise a mutually agreeable procedure with such Customer or Third Party for secure key management. In the case of a conflict, RhythmScience shall establish HIPAA compliant criteria in conjunction with the Customer or Third Party.
 
-1.
 ## Building Security
 
 It is the policy of RhythmScience to provide building and workspace access to the Office Location in a secure manner. However, RhythmScience strives to continuously upgrade and expand its security and to enhance protection of its assets and PHI that has been entrusted to it. The following list identifies measures that are in effect at the Office Location:
@@ -693,19 +674,19 @@ It is the policy of RhythmScience to provide building and workspace access to th
 - All paper records containing PHI are locked in a file cabinet at night or when the workforce member leaves their work area.
 - Fire Protection: Uses of local building codes are observed. Manufacturer&#39;s recommendations on the fire protection of individual hardware are followed.
 
-1.
+
 ## Telecommuting
 
 RhythmScience maintains a policy that telecommuting is permissible for all RhythmScience Employees and Associates. The same technical security protocols apply whether working remotely or at the Office Location. All relevant provisions of this Manual must be followed by telecommuters.
 
-  1.
+ 
 ## General Requirements
 
 - **Need to Know:** Telecommuting workers will have the access based on the same &#39;need to know&#39; standard as applicable in the Office Location.
 - **Password Use:** The use of a strong OS password is required for telecommuting computers, and should be changed immediately if compromised. Do not share your password or write it down where a family member or visitor can see it.
 - **Training:** Personnel who telecommute must complete the same annual Security Training as all other RhythmScience Employees and Associates, although such training may be completed remotely.
 
-  1.
+ 
 ## Security Responsibilties
 
 Authorized Workforce Members approved for telecommuting are responsible for ensuring that all work is conducted in a secure office environment isolated from visitors and family.
@@ -714,7 +695,7 @@ Non-RhythmScience Networks: Extreme care must be taken when connecting Authorize
 
 Data Entry When in an unsecure Area or Public Location:Do not perform work tasks that require the use of PHI when you are in an unsecure area or public location, e.g., airports, airplanes, hotel lobbies.
 
-1.
+
 ## Use of Transportable Media
 
 Transportable media included within the scope of this policy includes, but is not limited to, external hard drives, SD cards, DVDs, CD-ROMs, and USB key devices.
@@ -732,10 +713,10 @@ The use of transportable media in various formats is common within RhythmScience
 - Report all loss of transportable media to your supervisor. It is important that the Privacy Officer is notified immediately, either by the RhythmScience Employee or Associate or by their supervisor.
 - When a workforce member leaves RhythmScience, all transportable media in their possession must be returned to the Privacy Officer or appropriate personnel for data erasure that conforms to US Department of Defense standards for data elimination.
 
-1.
+
 ## Data Retention Policies
 
-  1.
+  
 ## General Requirements
 
 Our Data Retention Policies provide the general practices of RhythmScience regarding the retention of data. For data originating from customers or otherwise owned by customers, RhythmScience follows the language of customer agreements or the default standards as detailed below.
@@ -758,14 +739,14 @@ _PHI_ - RhythmScience adheres to the terms of the applicable customer BAA when d
 
 _Medical Records and other requirements -_ Requirements for medical providers to keep patient medical records varies by state. Customers are responsible to ensure the contractual relationship and directions provided to RhythmScience sufficiently cover that customer&#39;s obligations under these state laws. This responsibility extends to all over laws or regulations requiring retention of information not directly applicable to RhythmScience but may be applicable to our customers.
 
-  1.
+  
 ## Device and Media Re-use Policy
 
 Any device or media containing PHI is only re-used using a method that ensures the PHI could not be readily recovered or reconstructed. The methods of reuse are reassessed periodically, based on current technology, accepted practices, and availability of timely and cost-effective reuse technologies and services.
 
 PHI Destruction Policy – All hardcopy PHI or other sensitive or confidential records that require destruction are shredded using NIST 800-88 guidelines. Do not place PHI in a trash container without first shredding. All Authorized Workforce Members working from home or other remote locations must have direct access to a shredder if they use hardcopy PHI as part of their work.
 
-  1.
+  
 ## Disposable Media Policy
 
 Devices and media known to contain PHI shall comply with the standard set forth in Section 10.2 for disposal (e.g., using a method that ensures the PHI could not be readily recovered or reconstructed). In addition, it must be assumed that any External Media in the possession of an Authorized Workforce Member is likely to contain either PHI or other sensitive information. Accordingly, all External Media (should be disposed of in a method that ensures that there will be no loss of data and that the confidentiality and security of that data will not be compromised.
@@ -776,17 +757,17 @@ The following steps must be adhered to:
 - When no longer needed all forms of External Media potentially containing PHI are to be sent to the Security Officer or appropriate personnel for proper disposal.
 - The media will be secured until appropriate destruction methods are used based on NIST 800-88 guidelines.
 
-  1.
+  
 ## Authorized Computer Disposal Policy
 
 All Authorized Computers to be disposed of will be wiped of all data, and all settings and configurations will be reset to factory defaults. No other settings, configurations, software installation or options will be made. Asset tags and any other identifying logos or markings will be removed.
 
-  1.
+  
 ## Data Backup Policy
 
 Daily, a full backup of all servers containing PHI and other regulated data shall be backed up to an encrypted file stored with RhythmScience&#39;s hosting provider. RhythmScience utilizes the backup policy of its hosting provider. Backups are maintained in two regions on the same continent unless there is only one region within a continent. RhythmScience tests backups at least annually. Backup procedures have been established that encrypt sensitive data being moved to External Media. Use only that procedure – do not create one on your own. If there is no backup procedure established, or if you have External Media that is not encrypted, contact the appropriate RhythmScience personnel for assistance. Protect External Media by keeping it in your possession.
 
-1.
+
 ## Data Transfer Security
 
 Scope of Policy: This policy covers data transfers requirements that all RhythmScience Employees and Associates should be familiar with, and must be read in conjunction with RhythmScience&#39;s encryption guidelines in Section 6 of this Manual.
@@ -797,7 +778,7 @@ External System Access:If you require access to an external system, contact your
 
 Non-Encrypted Email:Workforce members are prohibited from sending emails containing PHI in a non-encrypted format. If any non-encrypted PHI is accidently received by email, it is RhythmScience policy to immediately notify the sender and delete the email (including all copies).
 
-1.
+
 ## Change Management Procedures
 
 **Statement of Policy**
@@ -808,14 +789,15 @@ This Policy is designed to ensure that RhythmScience is tracking changes to netw
 
 1. The designated RhythmScience workforce member who is updating, implementing, reconfiguring, or otherwise changing the system shall carefully log all changes made to the system.
 
-  1. When changes are tracked within a system, they do not need to be logged on the change management tracking log; however, the workforce member implementing the change will ensure that the change tracking is available for review if necessary.
+2. When changes are tracked within a system, they do not need to be logged on the change management tracking log; however, the workforce member implementing the change will ensure that the change tracking is available for review if necessary.
 
-1. The workforce member implementing the change will ensure that all necessary data backups are performed prior to the change.
-2. The workforce member implementing the change shall also be familiar with the rollback process in the event that the change causes an adverse effect within the system and needs to be removed.
+3. The workforce member implementing the change will ensure that all necessary data backups are performed prior to the change.
+
+4. The workforce member implementing the change shall also be familiar with the rollback process in the event that the change causes an adverse effect within the system and needs to be removed.
 
 Refer to RhythmScience Change Management Policy for further information.
 
-1.
+
 ## Audit Controls
 
 **Statement of Policy**
@@ -830,7 +812,7 @@ RhythmScience is committed to routinely auditing RhythmScience Employee and Asso
 2. The Privacy Officer or appropriate personnel shall enable event auditing, through Third Party vendor audit logging tools (i.e., AWS), on all Authorized Computers that process, transmit, and/or store PHI for purposes of generating audit logs.
 3. Monitors alert operations staff when unusual activity is detected. The Privacy Officer shall designate appropriate personnel responsible for installing, maintaining, and updating such monitors.
 
-1.
+
 ## Information System Activity Review
 
 **Statement of Policy**
@@ -851,7 +833,7 @@ This policy establishes the process for conducting, on a periodic basis, an oper
 
 All significant findings shall be recorded. Appropriate personnel shall forward all completed reports, as well as recommended actions to be taken in response to findings, to the Security Officer for review. The Security Officer shall be responsible for maintaining such reports. The Security Officer shall consider such reports and recommendations in determining whether to make changes to RhythmScience&#39;s Administrative, Physical, and Technical Safeguards.
 
-1.
+
 ## Data Integrity
 
 **Statement of Policy**
@@ -868,7 +850,7 @@ RhythmScience will check for possible duplication of data in its computer system
 
 Patches, applications, and operating system versions are kept up to date. To prevent programming or software bugs, RhythmScience will test new versions of its information systems for accuracy and functionality prior to deployment. RhythmScience will update its systems when IT vendors release fixes to address known bugs or problems.
 
-1.
+
 ## Emergency Operations and Contingency Plan
 
 **Statement of Policy**
@@ -877,61 +859,61 @@ RhythmScience is committed to maintaining a formal contingency plan for respondi
 
 **Procedure**
 
-1. Data Backup Plan
+Data Backup Plan
 
   1. RhythmScience, under the direction of the Security Officer, shall implement a data backup procedure to create and maintain retrievable exact copies of PHI.
 
-  1. On a daily basis, a full backup of all servers containing PHI shall be backed up to an encrypted file stored on AWS.
+  2. On a daily basis, a full backup of all servers containing PHI shall be backed up to an encrypted file stored on AWS.
 
-  1. The Security Officer shall monitor storage and removal of backups and ensure all applicable access controls are enforced.
+  3. The Security Officer shall monitor storage and removal of backups and ensure all applicable access controls are enforced.
 
-  1. The Security Officer shall test backup procedures on an annual basis to ensure that exact copies of PHI can be retrieved and made available. Such testing shall be documented. To the extent such testing indicates need for improvement in backup procedures, the Security Officer shall identify and implement such improvements in a timely manner.
+  4. The Security Officer shall test backup procedures on an annual basis to ensure that exact copies of PHI can be retrieved and made available. Such testing shall be documented. To the extent such testing indicates need for improvement in backup procedures, the Security Officer shall identify and implement such improvements in a timely manner.
 
-1. Business Continuity and Disaster Recovery Plan
+Business Continuity and Disaster Recovery Plan
 
 The Security Officer shall be responsible for implementing and periodically updating the Business Continuity and Disaster Recovery Plan (&quot;BCDR&quot;) for the purposes of:
 
     1. Restoring or recovering any loss of PHI and/or systems necessary to make PHI available in a timely manner caused by hacking incident, fire, vandalism, terrorism, system failure, or other emergency; and
 
-    1. Continuing operations during such time information systems are unavailable. Such BCDR all have a sufficient level of detail and explanation that a person unfamiliar with the system can implement the plan in case of an emergency or disaster. Copies of the plans shall be maintained at the Office Location and at the off-site locations at which backups are stored or another secure off-site location.
+    2. Continuing operations during such time information systems are unavailable. Such BCDR all have a sufficient level of detail and explanation that a person unfamiliar with the system can implement the plan in case of an emergency or disaster. Copies of the plans shall be maintained at the Office Location and at the off-site locations at which backups are stored or another secure off-site location.
 
-1. Disaster Procedures
+Disaster Procedures
 
 In the event that RhythmScience declares a &quot;Disaster&quot; the Security Officer shall be responsible for:
 
       1. Determining the impact of the Disaster and/or system unavailability on RhythmScience&#39;s obligations in connection with this Manual.
 
-      1. Securing the site and providing ongoing physical security.
+      2. Securing the site and providing ongoing physical security.
 
-      1. Retrieving lost PHI.
+      3. Retrieving lost PHI.
 
-      1. Identifying and implementing appropriate &quot;work-arounds&quot; during such time information systems are unavailable.
+      4. Identifying and implementing appropriate &quot;work-arounds&quot; during such time information systems are unavailable.
 
-      1. Taking such steps necessary to restore operations.
+      5. Taking such steps necessary to restore operations.
 
-1. Additional Responsibilities
+Additional Responsibilities
 
 The Security Officer shall perform the following duties on an annual basis:
 
     1. Review the effectiveness of this policy for responding to any Disaster or emergency experienced by RhythmScience;
 
-    1. In the absence of any such Disaster or emergency, plan drills to test the effectiveness of the plan and evaluate the results of such drills; and
+    2. In the absence of any such Disaster or emergency, plan drills to test the effectiveness of the plan and evaluate the results of such drills; and
 
-    1. Review the BCDR and make changes as appropriate.
+    3. Review the BCDR and make changes as appropriate.
 
-    1. Review and update Telephone numbers and/or e-mail addresses as necessary for all appropriate persons to be contacted in the event of an emergency, including the following:
+    4. Review and update Telephone numbers and/or e-mail addresses as necessary for all appropriate persons to be contacted in the event of an emergency, including the following:
 
-      1. Security Officer, Privacy Officer, and other Key Personnel
+      * Security Officer, Privacy Officer, and other Key Personnel
 
-      1. Subcontractors; and
+      * Subcontractors; and
 
-      1. All current RhythmScience Employees and Associates.
+      * All current RhythmScience Employees and Associates.
 
 **Line of Succession**
 
 The Emergency Operations and Contingency Plan sets forth an order of succession to ensure that decision-making authority for emergency operations is uninterrupted. The Security Officer is responsible for ensuring the safety of personnel and the execution of procedures documented within this plan. The Security Officer shall designate an alternate workforce member to fulfill the emergency response role in the event the Security Officer is unable to function in that capacity during an emergency.
 
-1.
+
 ## Security Awareness Training Policy
 
 **Statement of Policy**
@@ -942,19 +924,19 @@ All RhythmScience Employees and Associates shall receive formal Privacy and Info
 
 **Procedure**
 
-  1. HIPAA Security Training Program Overview
+HIPAA Security Training Program Overview
 
-    1. The Privacy Officer and/or other designated personnel shall have responsibility for developing and updating the Security Training from time to time as appropriate. The Privacy Officer shall be responsible for maintaining appropriate documentation that all RhythmScience Employees and Associates have completed the Security Training. Appropriate documentation shall include the date and signature of such attendance, and receipt of a passing score (70% or higher) on a HIPAA training quiz, to be completed by each workforce member after completing the Security Training. If a workforce member does not receive a passing score on the HIPAA training quiz, they must retake the Security Training.
+The Privacy Officer and/or other designated personnel shall have responsibility for developing and updating the Security Training from time to time as appropriate. The Privacy Officer shall be responsible for maintaining appropriate documentation that all RhythmScience Employees and Associates have completed the Security Training. Appropriate documentation shall include the date and signature of such attendance, and receipt of a passing score (70% or higher) on a HIPAA training quiz, to be completed by each workforce member after completing the Security Training. If a workforce member does not receive a passing score on the HIPAA training quiz, they must retake the Security Training.
 
-    1. Newly onboarded Workforce Members have thirty (30) days to complete the Security Training from their start date at RhythmScience, provided that no team members should be granted Authorized Workforce Member status to access PHI until after they have successfully completed the Security Training.
+Newly onboarded Workforce Members have thirty (30) days to complete the Security Training from their start date at RhythmScience, provided that no team members should be granted Authorized Workforce Member status to access PHI until after they have successfully completed the Security Training.
 
-1. Security Reminders and Additional Trainings for Authorized Workforce Members
+Security Reminders and Additional Trainings for Authorized Workforce Members
 
-1. The Privacy Officer is responsible for the development and delivery of periodic security reminders (in email or other form) for RhythmScience Employees and Associates in response to Security Incidents and environmental or operational changes impacting the security of PHI, e.g., PHI breaches, addition of new hardware or software, and increased threats. The Privacy Officer shall maintain appropriate documentation for all periodic security reminders.
+The Privacy Officer is responsible for the development and delivery of periodic security reminders (in email or other form) for RhythmScience Employees and Associates in response to Security Incidents and environmental or operational changes impacting the security of PHI, e.g., PHI breaches, addition of new hardware or software, and increased threats. The Privacy Officer shall maintain appropriate documentation for all periodic security reminders.
 
-  1. Authorized Workforce Members shall receive additional HIPAA trainings as needed on a discretionary basis (e.g., PHI-related responsibilities for engineers with high level access to RhythmScience Platform).
+Authorized Workforce Members shall receive additional HIPAA trainings as needed on a discretionary basis (e.g., PHI-related responsibilities for engineers with high level access to RhythmScience Platform).
 
-1.
+
 ## Risk Assessment and Management Process
 
 **Statement of Policy**
@@ -965,55 +947,55 @@ RhythmScience shall conduct an accurate and thorough risk analysis to serve as t
 
 **Procedure**
 
-  1. The Security Officer shall be responsible for coordinating RhythmScience&#39;s risk analysis.
+ The Security Officer shall be responsible for coordinating RhythmScience&#39;s risk analysis.
 
-  1. The risk analysis shall be completed via the utilization of an internally developed HIPAA Risk Assessment Tool, in accordance with 45 CFR 164.308(a)(1)(ii)(A) and all applicable HIPAA Security Rule guidance for risk assessments (reasonably appropriate assessment given RhythmScience&#39;s business size, scope of data processing, etc.). The following categories are recommended topics for analysis through the HIPAA Risk Assessment Tool, with any reasonably appropriate modifications to be made at the discretion of the Security Officer:
+  The risk analysis shall be completed via the utilization of an internally developed HIPAA Risk Assessment Tool, in accordance with 45 CFR 164.308(a)(1)(ii)(A) and all applicable HIPAA Security Rule guidance for risk assessments (reasonably appropriate assessment given RhythmScience&#39;s business size, scope of data processing, etc.). The following categories are recommended topics for analysis through the HIPAA Risk Assessment Tool, with any reasonably appropriate modifications to be made at the discretion of the Security Officer:
 
       1. Update/develop information systems inventory. List the following information for all hardware (i.e., network devices, workstations, printers, scanners, mobile devices) and software (i.e., operating system, various applications, interfaces): date acquired, vendor, function, data associated with the system.
 
-      1. Identify each licensee (_i.e.,_ authorized user) by job title and describe the manner in which authorization is granted.
+      2. Identify each licensee (_i.e.,_ authorized user) by job title and describe the manner in which authorization is granted.
 
-c) For each application identified:
+      c) For each application identified:
 
-1. Define the criticality of the application and related data as high, medium, or low. Criticality is the degree of impact on RhythmScience if the application and/or related data were unavailable for a period of time.
+Define the criticality of the application and related data as high, medium, or low. Criticality is the degree of impact on RhythmScience if the application and/or related data were unavailable for a period of time.
 
-1. Define the sensitivity of the data as high, medium, or low. Sensitivity is the nature of the data and the harm that could result from a breach of confidentiality or security incident.
+Define the sensitivity of the data as high, medium, or low. Sensitivity is the nature of the data and the harm that could result from a breach of confidentiality or security incident.
 
-1. Identify the various security controls currently in place.
+Identify the various security controls currently in place.
 
 d) Identify and document threats to the confidentiality, integrity, and availability (referred to as &quot;threat agents&quot;) of PHI created, received, maintained, or transmitted by RhythmScience. Consider the following:
 
-1. Natural threats, e.g., earthquakes, storm damage.
+   * Natural threats, e.g., earthquakes, storm damage.
 
-1. Environmental threats, e.g.,fire and smoke damage, power outage, utility problems.
+   * Environmental threats, e.g.,fire and smoke damage, power outage, utility problems.
 
-1. Human threats
+Human threats
 
   1. Accidental acts, e.g., input errors and omissions, faulty application programming or processing procedures, failure to update/upgrade software/security devices, lack of adequate financial and human resources to support necessary security controls
 
-  1. Inappropriate activities, e.g., inappropriate conduct, abuse of privileges or rights, workplace violence, waste of corporate assets, harassment
+  2. Inappropriate activities, e.g., inappropriate conduct, abuse of privileges or rights, workplace violence, waste of corporate assets, harassment
 
-  1. Illegal operations and intentional attacks, e.g., eavesdropping, snooping, fraud, theft, vandalism, sabotage, blackmail
+  3. Illegal operations and intentional attacks, e.g., eavesdropping, snooping, fraud, theft, vandalism, sabotage, blackmail
 
-  1. External attacks, e.g., malicious cracking, scanning, demon dialing, virus introduction
+  4. External attacks, e.g., malicious cracking, scanning, demon dialing, virus introduction
 
-    1. Vulnerabilities in RhythmScience&#39;s information systems. A vulnerability is a flaw or weakness in security policies and procedures, design, implementation, or controls that could be accidentally triggered or intentionally exploited, resulting in unauthorized access to PHI, modification of PHI, denial of service, or repudiation (_i.e.,_ the inability to identify the source and hold some person accountable for an action). To accomplish this task, conduct a self-analysis utilizing the standards and implementation specifications to identify vulnerabilities.
+Vulnerabilities in RhythmScience&#39;s information systems. A vulnerability is a flaw or weakness in security policies and procedures, design, implementation, or controls that could be accidentally triggered or intentionally exploited, resulting in unauthorized access to PHI, modification of PHI, denial of service, or repudiation (_i.e.,_ the inability to identify the source and hold some person accountable for an action). To accomplish this task, conduct a self-analysis utilizing the standards and implementation specifications to identify vulnerabilities.
 
       1. Determine and document probability and criticality of identified risks.
 
-1. Assign probability level, i.e., likelihood of a Security Incident involving identified risk.
+      2. Assign probability level, i.e., likelihood of a Security Incident involving identified risk.
 
-1. &quot;Very Likely&quot; (3) is defined as having a probable chance of occurrence.
+&quot;Very Likely&quot; (3) is defined as having a probable chance of occurrence.
 
-1. &quot;Likely&quot; (2) is defined as having a significant chance of occurrence.
+&quot;Likely&quot; (2) is defined as having a significant chance of occurrence.
 
-1. &quot;Not Likely&quot; (1) is defined as a modest or insignificant chance of occurrence.
+&quot;Not Likely&quot; (1) is defined as a modest or insignificant chance of occurrence.
 
   1. Assign criticality level.
 
-1. &quot;High&quot; (3) is defined as having a catastrophic or significant impact on RhythmScience, including a significant number of PHI records, which may have been lost or compromised.
+&quot;High&quot; (3) is defined as having a catastrophic or significant impact on RhythmScience, including a significant number of PHI records, which may have been lost or compromised.
 
-1. &quot;Medium&quot; (2) is defined as having a moderate impact on RhythmScience, including a moderate number of PHI records, which may have been lost or compromised.
+&quot;Medium&quot; (2) is defined as having a moderate impact on RhythmScience, including a moderate number of PHI records, which may have been lost or compromised.
 
 1. &quot;Low&quot; (1) is defined as a minimal or insignificant impact on RhythmScience, including de minimis loss or compromise of PHI records.
 
@@ -1025,23 +1007,23 @@ d) Identify and document threats to the confidentiality, integrity, and availabi
 
 1. Determine timeline for implementation.
 
-1. Determine costs of such measures and safeguards and secure funding.
+2. Determine costs of such measures and safeguards and secure funding.
 
-1. Assign responsibility for implementing specific measures and safeguards to appropriate person(s).
+3. Assign responsibility for implementing specific measures and safeguards to appropriate person(s).
 
-1. Make necessary adjustments based on implementation experiences.
+4. Make necessary adjustments based on implementation experiences.
 
-1. Document actual completion dates.
+5. Document actual completion dates.
 
-1. Evaluate effectiveness of measures and safeguards following implementation and make appropriate adjustments.
+6. Evaluate effectiveness of measures and safeguards following implementation and make appropriate adjustments.
 
-    1. The Security Officer shall be responsible for identifying appropriate times to conduct follow-up evaluations and coordinating such evaluations. The Security Officer shall identify appropriate persons within RhythmScience to assist with such evaluations. Such evaluations shall be conducted upon the occurrence of one or more of the following events: changes in the Security Rule regulations; new federal, state, or local laws or regulations affecting the security of PHI; changes in technology, environmental processes, or business processes that may affect HIPAA security policies or procedures; or the occurrence of a serious security incident. As appropriate, follow-up evaluations shall include the following:
+The Security Officer shall be responsible for identifying appropriate times to conduct follow-up evaluations and coordinating such evaluations. The Security Officer shall identify appropriate persons within RhythmScience to assist with such evaluations. Such evaluations shall be conducted upon the occurrence of one or more of the following events: changes in the Security Rule regulations; new federal, state, or local laws or regulations affecting the security of PHI; changes in technology, environmental processes, or business processes that may affect HIPAA security policies or procedures; or the occurrence of a serious security incident. As appropriate, follow-up evaluations shall include the following:
 
-      1. Inspections, reviews, interviews, and analysis to assess adequacy of Administrative and Physical Safeguards. Such evaluations may include interviews to assess RhythmScience Employee and Associate compliance; after-hours walk-through inspections to assess physical security, password protection (i.e., not posted), and workstation sessions terminated (i.e., RhythmScience Employees logged out); review of latest security policies and procedures for correctness and completeness; and inspection and analysis of training, incident, and media logs for compliance.
+Inspections, reviews, interviews, and analysis to assess adequacy of Administrative and Physical Safeguards. Such evaluations may include interviews to assess RhythmScience Employee and Associate compliance; after-hours walk-through inspections to assess physical security, password protection (i.e., not posted), and workstation sessions terminated (i.e., RhythmScience Employees logged out); review of latest security policies and procedures for correctness and completeness; and inspection and analysis of training, incident, and media logs for compliance.
 
-      1. Analysis to assess adequacy of technical controls within the network, operating systems and applications. RhythmScience may engage outside vendors to evaluate existing technical security measures and make recommendations for improvement.
+Analysis to assess adequacy of technical controls within the network, operating systems and applications. RhythmScience may engage outside vendors to evaluate existing technical security measures and make recommendations for improvement.
 
-1.
+
 ## Sanction Policy
 
 **Policy**
@@ -1113,7 +1095,7 @@ In the event that an RhythmScience Employee or Associate violates the Security R
 
 - ImportantNote: The recommended disciplinary actions are identified in order to provide guidance in policy enforcement and are not meant to be required in all circumstances. If formal discipline is deemed necessary, RhythmScience management personnel shall consult with the Privacy Officer prior to taking action.When appropriate, progressive disciplinary action steps shall be followed allowing the RhythmScience Employee or Associate to correct the behavior that caused the disciplinary action. A Letter of Reprimand must be reviewed by the Privacy Officer before given to the RhythmScience Employee or Associate.
 
-1.
+
 ## Breach Notification Policy
 
 This policy exists to provide guidance for PHI Breach investigation and notification when unauthorized access, use or disclosure of PHI may have occurred. Breach investigation and notification will be carried out in compliance with the HITECH Act as well as any other applicable federal or state data breach notification laws.
@@ -1152,102 +1134,8 @@ In the case of a suspected or actual PHI Breach while RhythmScience is acting in
 
 RhythmScience shall utilize a Breach Notification Log to record all suspected Breaches of unsecured PHI regardless of the number of customers or individuals affected. A record of the complete investigation of the suspected Breach as well as the risk assessment carried out to determine notification requirements should be created. The risk assessment and the record/event report should be cross-referenced so that it would be easy to locate and provide any additional information required by the HHS Secretary.
 
-| **Date Suspected Breach**** Discovered**
- | **Date Suspected**** Breach Occurred **|** Location**
- | **Brief Description\*** | **Number of Patient Subjects Involved** | **Notification**** Dates (if applicable) **|** Verification of PHI Breach (YES/NO) and Resolution Steps** |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Customers** | **HHS** | **Media** |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
+| **Date Suspected Breach**** Discovered**| **Date Suspected**** Breach Occurred **|** Location**| **Brief Description\*** | **Number of Patient Subjects Involved** | **Notification**** Dates (if applicable) **|** Verification of PHI Breach (YES/NO) and Resolution Steps** || **Customers** | **HHS** | **Media** |
+ 
 
 \*A description of what happened, including a description of the types of unsecured PHI that were involved in the suspected Breach (such as full name, Social Security number, date of birth, home address, account number, etc.).
 
