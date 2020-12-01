@@ -2,7 +2,7 @@
 
 # Privacy &amp; Information Security Policy Manual
 
-Last Revision Date: November 26, 2020
+Last Revision Date: December 1, 2020
 
 Table of Contents
 
