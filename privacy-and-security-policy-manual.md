@@ -464,7 +464,6 @@ All RhythmScience Employees and Associates shall undergo an accredited backgroun
 
 Unacceptable behavior by RhythmScience Employees and Associates includes being under the influence of alcohol or illegal substances or misusing or abusing prescription drugs or medicines while on RhythmScience business. RhythmScience reserves the right to take disciplinary action, up to and including immediate suspension or termination for failure to refrain from such behavior.
 
-
 ## Electronic Signatures
 
 In compliance with all applicable federal electronic signature (&quot;e-signature&quot;) requirements, most activities at RhythmScience utilize e-signatures. When a signed authorization is required for a disclosure of PHI not otherwise permitted by the HIPAA Privacy Rule (e.g., marketing or research disclosures), the following conditions shall apply with respect to e-signatures:
@@ -515,7 +514,7 @@ User account passwords are required in order for RhythmScience Employees and Ass
 
 The following password best practices and restrictions are adhered to, as may be modified by the Security Officer from to time to time with reasonable alternative standards of a &quot;Strong&quot; nature:
 
-Content Requirements - Passwords must be a minimum of eight characters, and must include at least one non-Dockbetic character such as a numeral (0-9) or punctuation characters and should contain at least one upper case Dockbetic character. Passwords such as fishnets or violets must not be used, since they are found in the dictionary; passwords like net4fish or v!0lets (using a ! for an &quot;i&quot; or a 0 for an &quot;o&quot;) would be acceptable. Users should not use numerals in either the first or last position with a common dictionary word, since some passwords &quot;cracking&quot; programs search for such words – _fishnet4_ is not a good password. Passwords must not contain user&#39;s name or be equal to the user ID.
+Content Requirements - Passwords must be a minimum of eight characters, and must include at least one non-alphabetic character such as a numeral (0-9) or punctuation characters and should contain at least one upper case alphabetic character. Passwords such as fishnets or violets must not be used, since they are found in the dictionary; passwords like net4fish or v!0lets (using a ! for an &quot;i&quot; or a 0 for an &quot;o&quot;) would be acceptable. Users should not use numerals in either the first or last position with a common dictionary word, since some passwords &quot;cracking&quot; programs search for such words – _fishnet4_ is not a good password. Passwords must not contain user&#39;s name or be equal to the user ID.
 
 Change Frequency – Compromised passwords must be changed immediately.
 
