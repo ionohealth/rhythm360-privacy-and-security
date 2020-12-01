@@ -522,7 +522,7 @@ Restrictions on Sharing Passwords – Passwords shall not be shared, written dow
 
 Restrictions on Recording Passwords – Passwords are masked or suppressed on all online screens, and are never printed or included in reports or logs. Passwords are stored in an encrypted format.
 
-Security Controls - The Security Officer shall employ the following minimum security controls with regard to password contruction:
+Security Controls - The Security Officer shall employ the following minimum security controls with regard to password construction:
 
 - Initial passwords issued by a security administrator are only valid for the user&#39;s first log in session and at that time, the user must be forced to choose another password.
 - Passwords issued by administrators must follow the password guidelines within this standard. Temporary passwords should be unique and not guessable. It is not acceptable to create all new accounts with a default password of _mickey_ or _1234_5, for example. The initial password must follow the construction requirements noted below:
