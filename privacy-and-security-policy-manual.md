@@ -6,133 +6,133 @@ Last Revision Date: November 26, 2020
 
 Table of Contents
 
-[1] Introduction 4
+[1] Introduction 
 
-[1.1] Purpose 4
+[1.1] Purpose
 
-[1.2] Scope 4
+[1.2] Scope
 
-[1.3] Acronyms / Definitions 4
+[1.3] Acronyms / Definitions
 
-[1.4] Production Environment 6
+[1.4] Production Environment
 
-[1.5] Privacy Officer and Security Officer 7
+[1.5] Privacy Officer and Security Officer
 
-[Privacy Officer 7]
+[Privacy Officer]
 
-[Security Officer 8]
+[Security Officer]
 
-[1.6] Periodic Evaluation of Privacy and Security Policies 8
+[1.6] Periodic Evaluation of Privacy and Security Policies
 
-[1.7] Master Security List 8
+[1.7] Master Security List
 
-[1.8] Compliance Statement 9
+[1.8] Compliance Statement
 
-[1.9] Formatting and Distribution 10
+[1.9] Formatting and Distribution
 
-[1.10] Physical and Environmental Security Policies for Hosting Environment 10
+[1.10] Physical and Environmental Security Policies for Hosting Environment
 
-[2] Workforce Security Responsibilities 10
+[2] Workforce Security Responsibilities
 
-[2.1] Office Location Security Policies 10
+[2.1] Office Location Security Policies
 
-[2.2] Authorization Process for PHI Access 11
+[2.2] Authorization Process for PHI Access
 
-[2.3] Prohibited Activities 11
+[2.3] Prohibited Activities
 
-[2.4] Workforce Member Oversight Policies 12
+[2.4] Workforce Member Oversight Policies
 
-[2.5] Reporting Software Malfunctions 12
+[2.5] Reporting Software Malfunctions
 
-[2.6] Security Patch Management 12
+[2.6] Security Patch Management
 
-[2.7] Security Incident Response Policy 13
+[2.7] Security Incident Response Policy
 
-[2.8] De-identification / Re-identification of PHI 14
+[2.8] De-identification / Re-identification of PHI
 
-[2.9] Background Checks 14
+[2.9] Background Checks
 
-[2.10] Substance Abuse Policy 15
+[2.10] Substance Abuse Policy
 
-[2.11] Electronic Signatures 15
+[2.11] Electronic Signatures
 
-[2.12] Clean Desk Policy 15
+[2.12] Clean Desk Policy
 
-[2.13] Network Security Policy 15
+[2.13] Network Security Policy
 
-[3] Identification and Authentication 16
+[3] Identification and Authentication
 
-[3.1](#_heading=h.19c6y18)User LogIn IDs 16
+[3.1] User LogIn IDs
 
-[3.2](#_heading=h.3tbugp1)Passwords 16
+[3.2] Passwords
 
-[3.3](#_heading=h.nmf14n)PHI Access Controls 18
+[3.3] PHI Access Controls
 
-[3.4](#_heading=h.1mrcu09)User Login Entitlement Reviews 18
+[3.4] User Login Entitlement Reviews
 
-[3.5](#_heading=h.46r0co2)Termination of User Login Account 18
+[3.5] Termination of User Login Account
 
-[3.6](#_heading=h.2lwamvv)Wifi Security Policy 19
+[3.6] Wifi Security Policy
 
-[3.7](#_heading=h.111kx3o)Device Policy 19
+[3.7] Device Policy
 
-[3.8](#_heading=h.3l18frh)Supported Browser Policy 19
+[3.8] Supported Browser Policy
 
-[3.9](#_heading=h.206ipza)Data Classification Policy 19
+[3.9] Data Classification Policy
 
-[4](#_heading=h.4k668n3)Vendor Management Policy 20
+[4] Vendor Management Policy
 
-[4.1](#_heading=h.2zbgiuw)Subcontractor Risk Assignment 21
+[4.1] Subcontractor Risk Assignment
 
-[4.2](#_heading=h.1egqt2p)Subcontractor Oversight and Monitoring 21
+[4.2] Subcontractor Oversight and Monitoring
 
-[5](#_heading=h.3ygebqi)Software Updates 22
+[5] Software Updates
 
-[6](#_heading=h.2dlolyb)Encryption 22
+[6] Encryption
 
-[7](#_heading=h.4bvk7pj)Building Security 22
+[7] Building Security
 
-[8](#_heading=h.1664s55)Telecommuting 22
+[8] Telecommuting
 
-[8.1](#_heading=h.kgcv8k)General Requirements 23
+[8.1] General Requirements
 
-[8.2](#_heading=h.34g0dwd)Security Responsibilities 23
+[8.2] Security Responsibilities
 
-[9](#_heading=h.1jlao46)Use of Transportable Media 23
+[9] Use of Transportable Media
 
-[10](#_heading=h.43ky6rz)Data Retention Policies 24
+[10] Data Retention Policies
 
-[10.1](#_heading=h.2iq8gzs)General Requirements 24
+[10.1] General Requirements
 
-[10.2](#_heading=h.xvir7l)Device and Media Re-use Policy 25
+[10.2] Device and Media Re-use Policy
 
-[10.3](#_heading=h.3hv69ve)Disposable Media Policy 25
+[10.3] Disposable Media Policy
 
-[10.4](#_heading=h.1x0gk37)Authorized Computer Disposal Policy 25
+[10.4] Authorized Computer Disposal Policy
 
-[10.5](#_heading=h.4h042r0)Data Backup Policy 26
+[10.5] Data Backup Policy
 
-[11](#_heading=h.2w5ecyt)Data Transfer Security 26
+[11] Data Transfer Security
 
-[12](#_heading=h.1baon6m)Change Management 26
+[12] Change Management
 
-[13](#_heading=h.3vac5uf)Audit Controls 27
+[13] Audit Controls
 
-[14](#_heading=h.2afmg28)Information System Activity Review 27
+[14] Information System Activity Review
 
-[15](#_heading=h.pkwqa1)Data Integrity 28
+[15] Data Integrity
 
-[16](#_heading=h.1opuj5n)Emergency Operations and Contingency Plan 29
+[16] Emergency Operations and Contingency Plan
 
-[17](#_heading=h.48pi1tg)Security Awareness Training Policy 30
+[17] Security Awareness Training Policy
 
-[18](#_heading=h.2nusc19)Risk Assessment and Management Process 31
+[18] Risk Assessment and Management Process
 
-[19](#_heading=h.1302m92)Sanction Policy 34
+[19] Sanction Policy
 
-[20](#_heading=h.3mzq4wv)Breach Notification Policy 36
+[20] Breach Notification Policy
 
-Appendix A: Breach Notification Log Template………………......……………………………………........... 38
+Appendix A: Breach Notification Log Template
 
 ## Introduction
 
