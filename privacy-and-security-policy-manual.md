@@ -1072,7 +1072,7 @@ In the event that an RhythmScience Employee or Associate violates the Security R
 - Retraining on privacy/security awareness
 - Retraining on RhythmScience&#39;s privacy and security policies
 - Retraining on the proper use of internal or required forms
- |
+
 | **Violation Level** 2| **Recommended Disciplinary Action** |
 
 - Letter of Reprimand\*; or suspension
@@ -1085,7 +1085,6 @@ In the event that an RhythmScience Employee or Associate violates the Security R
 - Termination of employment or contract
 - Civil penalties as provided under HIPAA or other applicable Federal/State/Local law
 - Criminal penalties as provided under HIPAA or other applicable Federal/State/Local law
- |
 
 - ImportantNote: The recommended disciplinary actions are identified in order to provide guidance in policy enforcement and are not meant to be required in all circumstances. If formal discipline is deemed necessary, RhythmScience management personnel shall consult with the Privacy Officer prior to taking action.When appropriate, progressive disciplinary action steps shall be followed allowing the RhythmScience Employee or Associate to correct the behavior that caused the disciplinary action. A Letter of Reprimand must be reviewed by the Privacy Officer before given to the RhythmScience Employee or Associate.
 
