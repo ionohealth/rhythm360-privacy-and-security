@@ -954,15 +954,15 @@ RhythmScience shall conduct an accurate and thorough risk analysis to serve as t
 
       2. Identify each licensee (_i.e.,_ authorized user) by job title and describe the manner in which authorization is granted.
 
-      c) For each application identified:
+For each application identified:
 
-Define the criticality of the application and related data as high, medium, or low. Criticality is the degree of impact on RhythmScience if the application and/or related data were unavailable for a period of time.
+  Define the criticality of the application and related data as high, medium, or low. Criticality is the degree of impact on RhythmScience if the application and/or related data were unavailable for a period of time.
 
-Define the sensitivity of the data as high, medium, or low. Sensitivity is the nature of the data and the harm that could result from a breach of confidentiality or security incident.
+  Define the sensitivity of the data as high, medium, or low. Sensitivity is the nature of the data and the harm that could result from a breach of confidentiality or security incident.
 
-Identify the various security controls currently in place.
+  Identify the various security controls currently in place.
 
-d) Identify and document threats to the confidentiality, integrity, and availability (referred to as &quot;threat agents&quot;) of PHI created, received, maintained, or transmitted by RhythmScience. Consider the following:
+Identify and document threats to the confidentiality, integrity, and availability (referred to as &quot;threat agents&quot;) of PHI created, received, maintained, or transmitted by RhythmScience. Consider the following:
 
    * Natural threats, e.g., earthquakes, storm damage.
 
@@ -996,25 +996,25 @@ Vulnerabilities in RhythmScience&#39;s information systems. A vulnerability is a
 
 &quot;Medium&quot; (2) is defined as having a moderate impact on RhythmScience, including a moderate number of PHI records, which may have been lost or compromised.
 
-1. &quot;Low&quot; (1) is defined as a minimal or insignificant impact on RhythmScience, including de minimis loss or compromise of PHI records.
+&quot;Low&quot; (1) is defined as a minimal or insignificant impact on RhythmScience, including de minimis loss or compromise of PHI records.
 
-  1. Determine risk score for each identified risk. Multiply the probability score and criticality score. Those risks with a higher risk score require more immediate attention.
+  Determine risk score for each identified risk. Multiply the probability score and criticality score. Those risks with a higher risk score require more immediate attention.
 
     1. Identify and document appropriate security measures and safeguards to address key vulnerabilities. To accomplish this task, review the vulnerabilities you have identified in relation to the standards and implementation specifications. Focus on those vulnerabilities with high-risk scores, as well as specific security measures and safeguards required by the Security Rule.
 
-    1. Develop and document an implementation strategy for critical security measures and safeguards.
+    2. Develop and document an implementation strategy for critical security measures and safeguards.
 
-1. Determine timeline for implementation.
+    3. Determine timeline for implementation.
 
-2. Determine costs of such measures and safeguards and secure funding.
+    4. Determine costs of such measures and safeguards and secure funding.
 
-3. Assign responsibility for implementing specific measures and safeguards to appropriate person(s).
+    5. Assign responsibility for implementing specific measures and safeguards to appropriate person(s).
 
-4. Make necessary adjustments based on implementation experiences.
+    6. Make necessary adjustments based on implementation experiences.
 
-5. Document actual completion dates.
+    7. Document actual completion dates.
 
-6. Evaluate effectiveness of measures and safeguards following implementation and make appropriate adjustments.
+    8. Evaluate effectiveness of measures and safeguards following implementation and make appropriate adjustments.
 
 The Security Officer shall be responsible for identifying appropriate times to conduct follow-up evaluations and coordinating such evaluations. The Security Officer shall identify appropriate persons within RhythmScience to assist with such evaluations. Such evaluations shall be conducted upon the occurrence of one or more of the following events: changes in the Security Rule regulations; new federal, state, or local laws or regulations affecting the security of PHI; changes in technology, environmental processes, or business processes that may affect HIPAA security policies or procedures; or the occurrence of a serious security incident. As appropriate, follow-up evaluations shall include the following:
 
@@ -1036,10 +1036,7 @@ To ensure that there are appropriate sanctions that will be applied to RhythmSci
 
 Listed below are the types of violations that require sanctions to be applied. They are stated at levels 1, 2, and 3 depending on the seriousness of the violation.
 
-| **Level** | **Description of Violation** |
-| --- | --- |
-| 1 |
-
+| **Level** 1| **Description of Violation** |
 - Accessing information that you do not need to know to do your job.
 - Sharing computer access codes (user name &amp; password) for Approved Tools that access PHI.
 - Leaving computer unattended while being able to access PHI.
@@ -1050,14 +1047,14 @@ Listed below are the types of violations that require sanctions to be applied. T
 - Discussing PHI with an unauthorized person.
 - Failing/refusing to cooperate with the Privacy Officer, and/or authorized designee.
  |
-| 2 |
+| **Level** 2| **Description of Violation** |
 
 - Second occurrence of any Level 1 offense (does not have to be the same offense).
 - Unauthorized use or disclosure of PHI.
 - Using another person&#39;s computer access code (user name &amp; password).
 - Failing/refusing to comply with a remediation resolution or recommendation.
  |
-| 3 |
+| **Level** 3| **Description of Violation** |
 
 - Third occurrence of any Level 1 offense (does not have to be the same offense).
 - Second occurrence of any Level 2 offense (does not have to be the same offense).
@@ -1069,23 +1066,21 @@ Listed below are the types of violations that require sanctions to be applied. T
 
 In the event that an RhythmScience Employee or Associate violates the Security Rule and this Manual, the following recommended disciplinary actions should apply.
 
-| **Violation Level** | **Recommended Disciplinary Action** |
-| --- | --- |
-| 1 |
+| **Violation Level** 1| **Recommended Disciplinary Action** |
 
 - Verbal or written reprimand
 - Retraining on privacy/security awareness
 - Retraining on RhythmScience&#39;s privacy and security policies
 - Retraining on the proper use of internal or required forms
  |
-| 2 |
+| **Violation Level** 2| **Recommended Disciplinary Action** |
 
 - Letter of Reprimand\*; or suspension
 - Retraining on privacy/security awareness
 - Retraining on RhythmScience&#39;s privacy and security policies
 - Retraining on the proper use of internal or required forms
- |
-| 3 |
+
+| **Violation Level** 3| **Recommended Disciplinary Action** |
 
 - Termination of employment or contract
 - Civil penalties as provided under HIPAA or other applicable Federal/State/Local law
