@@ -140,7 +140,6 @@ Appendix A: Breach Notification Log Template
 
 The purpose of this Privacy &amp; Information Security Policy Manual (&quot;Manual&quot;) is to ensure the security, quality, and integrity of sensitive and confidential data at RhythmScience, Inc. (&quot;RhythmScience&quot;), including protected health information (&quot;PHI&quot;). This Manual defines the Technical, Physical, and Administrative Safeguards that RhythmScience must adhere to under the HIPAA Security Rule (&quot;Security Rule&quot;) via the HITECH Act. This Manual also covers regulatory requirements under the HIPAA Privacy Rule and Breach Notification Rule. This Manual must be agreed to, and followed by all RhythmScience Employees and Associates, although particular provisions may be applicable to RhythmScience Employees and Associates authorized to access PHI (&quot;Authorized Workforce Members&quot;).
 
-  1.
 ## Scope
 
 The policy requirements and restrictions defined in this Manual shall apply to all RhythmScience systems that create, maintain, store, access, process or transmit information. This includes the RhythmScience network system, which is comprised of various hardware, software, communication equipment and other devices used by RhythmScience in the creation, receipt, storage, processing, and transmission of information. This also includes equipment connected to any RhythmScience domain or Virtual Local Area Network (&quot;VLAN&quot;), either hardwired or wirelessly, and all stand-alone equipment that is deployed by RhythmScience at the Office Location or at remote locales.
