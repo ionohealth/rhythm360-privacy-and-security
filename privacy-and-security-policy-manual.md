@@ -1102,9 +1102,9 @@ In the case of a suspected or actual PHI Breach while RhythmScience is acting in
   - The cause of the suspected Breach, and the entity responsible for the suspected Breach, whether, a third party Subcontractor, RhythmScience or an applicable customer;
   - Whether the PHI was actually acquired or viewed; and
   - The potential for significant risk of financial, reputational, or other harm and the extent to which the risk to the PHI has been mitigated.
-4. Timeliness of Notification: Upon verification of an actual or reasonably suspected PHI or Security Breach, notice shall be made to the affected customers, as applicable within the timeframe stipulated in the relevant BAA(s), and no later than 60 days from the date of discovery in any circumstances. Depending on the nature of the critical issue, our timeline and process to communicate with customers is as follows - 
-  - Security: 4 business days to notify the customer, and then additional 4D to provide further guidance and resolution
-  - Uptime/availability: 24H for unplanned, and 1 week for planned (advance communication).  
+4. Timeliness of Notification: Upon verification of an actual or reasonably suspected PHI or Security Breach, notice shall be made to the affected customers, as applicable within the timeframe stipulated in the relevant BAA(s), and no later than 60 days from the date of discovery in any circumstances. Depending on the nature of the critical issue, our timeline and process to communicate with customers is as follows:
+  - Security: 2 business days to notify the customer, and then additional 4 business days to provide further guidance and resolution
+  - Uptime/availability: 24H notice for unplanned downtime, and 1 week for planned downtime via advance communication  
   It is the responsibility of RhythmScience to demonstrate that all applicable notifications were made as legally required, including RhythmScience demonstrating the necessity of delay.
 5. Delay of Notification Authorized for Law Enforcement Purposes: If a law enforcement official states to RhythmScience that a notification, notice, or posting would impede a criminal investigation or cause damage to national security, RhythmScience shall:
   - If the statement is in writing and specifies the time for which a delay is required, delay such notification, notice, or posting of the time period specified by the official; or
