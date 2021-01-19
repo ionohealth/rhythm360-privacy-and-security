@@ -566,7 +566,7 @@ Upon termination of a workforce member, whether voluntary or involuntary, such i
 
 ## Wifi Security Policy
 
-RhythmScience utilizes WPA encryption and each workforce member is responsible for his or her own security on the network. Best WIFI security practices are covered in the Security Training.
+RhythmScience employees must use the office network while in the ofice premises to connect to internet and RhythmScience systems. RhythmScience Employees must avoid using public wifi. And instead should use personal hotspots or some way to encrypt web connection. While working from home, employees are responsible for the security of the wifi network and should follow best practises like always securing wifi with a password, changing the default passwords that can be easily found on the physical device, and also keeping the firmware updated regularly for security patches.
 
 
 ## Device Policy
